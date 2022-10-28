@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Renan-Emori/starting-react/static/css/main.3d48df83.css",
-    "main.js": "/Renan-Emori/starting-react/static/js/main.bdc4f2e9.js",
-    "static/js/787.294c790e.chunk.js": "/Renan-Emori/starting-react/static/js/787.294c790e.chunk.js",
-    "index.html": "/Renan-Emori/starting-react/index.html",
-    "main.3d48df83.css.map": "/Renan-Emori/starting-react/static/css/main.3d48df83.css.map",
-    "main.bdc4f2e9.js.map": "/Renan-Emori/starting-react/static/js/main.bdc4f2e9.js.map",
-    "787.294c790e.chunk.js.map": "/Renan-Emori/starting-react/static/js/787.294c790e.chunk.js.map"
+    "main.css": "/my-app/static/css/main.3d48df83.css",
+    "main.js": "/my-app/static/js/main.62fc9ddf.js",
+    "static/js/787.294c790e.chunk.js": "/my-app/static/js/787.294c790e.chunk.js",
+    "index.html": "/my-app/index.html",
+    "main.3d48df83.css.map": "/my-app/static/css/main.3d48df83.css.map",
+    "main.62fc9ddf.js.map": "/my-app/static/js/main.62fc9ddf.js.map",
+    "787.294c790e.chunk.js.map": "/my-app/static/js/787.294c790e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d48df83.css",
-    "static/js/main.bdc4f2e9.js"
+    "static/js/main.62fc9ddf.js"
   ]
 }
